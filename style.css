@@ -1,0 +1,11 @@
+h1 { /* Alle h1-Elemente stylen */
+    /* Unteren Rand 1px breit, double und schwarz */
+    border-bottom: 10px double black;
+    /* Kleinbuchstaben als kleine Großbuchstaben darstellen */
+    font-variant: small-caps;
+    /* Schriftfarbe ändern */
+    color: steelblue;
+}
+p {
+    font-style: oblique;
+}
