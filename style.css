@@ -4,7 +4,7 @@ h1 { /* Alle h1-Elemente stylen */
     /* Kleinbuchstaben als kleine Großbuchstaben darstellen */
     font-variant: small-caps;
     /* Schriftfarbe ändern */
-    color: steelblue;
+    color: rgb(50, 0, 230);
 }
 p {
     font-style: oblique;
